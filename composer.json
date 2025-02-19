@@ -1,5 +1,5 @@
 {
-  "name": "dirkpersky/typo3-rte-ckeditor-fontawesome",
+  "name": "agencelex/typo3-rte-ckeditor-fontawesome",
   "type": "typo3-cms-extension",
   "description": "Adds the Fontawesome add-on to the CKEditor in TYPO3.",
   "version": "1.0.0",
