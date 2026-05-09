@@ -1,0 +1,13 @@
+categories:
+  ckeditor_fontawesome:
+    label: 'Rte CKEditor Fontawesome'
+
+settings:
+  plugin.tx_ckeditor_fontawesome.loadCSS:
+    category: ckeditor_fontawesome
+    type: bool
+    default: true
+  plugin.tx_ckeditor_fontawesome.css:
+    category: ckeditor_fontawesome
+    type: string
+    default: 'https://use.fontawesome.com/releases/v6.4.0/css/all.css'

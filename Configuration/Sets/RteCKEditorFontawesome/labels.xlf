@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file source-language="en" datatype="plaintext" original="EXT:rte_ckeditor_fontawesome/Configuration/Sets/RteCKEditorFontawesome/labels.xlf" date="2026-05-09T15:53:38Z" product-name="rte_ckeditor_fontawesome">
+		<header/>
+		<body>
+			<trans-unit id="label" resname="label">
+				<source>RteCKEditorFontawesome</source>
+			</trans-unit>
+			<trans-unit id="categories.ckeditor_fontawesome" resname="categories.ckeditor_fontawesome">
+				<source>Rte CKEditor Fontawesome</source>
+			</trans-unit>
+			<trans-unit id="settings.plugin.tx_ckeditor_fontawesome.loadCSS" resname="settings.plugin.tx_ckeditor_fontawesome.loadCSS">
+				<source>Inject the Fontawesome CSS file in the head section of the DOM (Default is yes)</source>
+			</trans-unit>
+			<trans-unit id="settings.plugin.tx_ckeditor_fontawesome.css" resname="settings.plugin.tx_ckeditor_fontawesome.css">
+				<source>Path to CSS-File</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
